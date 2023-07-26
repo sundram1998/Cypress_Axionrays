@@ -1,4 +1,7 @@
 {
+  "scripts": {
+    "cy:open": "./node_modules/.bin/cypress open"
+  },
   "devDependencies": {
     "@testing-library/cypress": "^9.0.0",
     "cypress": "^12.17.2",
