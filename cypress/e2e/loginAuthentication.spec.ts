@@ -3,10 +3,10 @@ describe("Login and Authentications Flows", function () {
     cy.fixture("loginData.json").then((data) => {
       this.data = data;
     });
+    cy.visit("https://practicetestautomation.com/practice-test-login/");
   });
   it("TestID-1_Verify that a user with valid credentials can log in and log out successfully.", function () {
     const jsondata = this.data;
-    cy.visit("https://practicetestautomation.com/practice-test-login/");
     // To validate the title of the page
     cy.title().should("eq", "Test Login | Practice Test Automation");
     // To Validate the logo of the page
@@ -27,7 +27,6 @@ describe("Login and Authentications Flows", function () {
   });
   it("TestID-2_Verify that incorrect username and password result in login failure.", function () {
     const jsondata = this.data;
-    cy.visit("https://practicetestautomation.com/practice-test-login/");
     // To validate the title of the page
     cy.title().should("eq", "Test Login | Practice Test Automation");
     // To Validate the logo of the page
