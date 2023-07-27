@@ -35,7 +35,8 @@ $ git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY
 > Remote: Compressing objects: 100% (8/8), done.
 > remote: Total 10 (delta 1), reused 10 (delta 1)
 > Unpacking objects: 100% (10/10), done.
-After Clone hit the command code . what will open vs code with cloned repo codes
+
+#After Clone hit the command code . what will open vs code with cloned repo codes
 > In the terminal hit cd Cypress_Axionrays and hit enter
 > Then npm install
 > Then npx cypress open
