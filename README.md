@@ -15,7 +15,8 @@ To clone the repository using HTTPS, under "HTTPS", click.
 To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click SSH, then click.
 
 To clone a repository using GitHub CLI, click GitHub CLI, then click.
-![image](https://github.com/sundram1998/Cypress_Axionrays/assets/67402167/9705f29a-4c76-4725-a9db-bb3529bfb6a9)
+![image](https://github.com/sundram1998/Cypress_Axionrays/assets/67402167/88b9ffc2-f15a-4774-ac39-b2b3ba55e496)
+
 
 
 Screenshot of the "Code" dropdown menu. To the right of the HTTPS URL for the repository, a copy icon is outlined in dark orange.
