@@ -3,7 +3,8 @@ Cloning a repository
 On GitHub.com, navigate to the main page of the repository.
 
 Above the list of files, click  Code.
-![image](https://github.com/sundram1998/Cypress_Axionrays/assets/67402167/61a5f35d-cad8-4611-a496-7edb1cac8283)
+![image](https://github.com/sundram1998/Cypress_Axionrays/assets/67402167/b04482b0-bb9a-4472-83b4-9d2ac69f36e5)
+
 
 
 Screenshot of the list of files on the landing page of a repository. The "Code" button is highlighted with a dark orange outline.
