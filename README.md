@@ -1,4 +1,4 @@
-```<h1><span style="color: green"> #How to clone and run Cypress repo </span></h1>
+<h1><span style="color: green"> #How to clone and run Cypress repo </span></h1>
 Cloning a repository
 On GitHub.com, navigate to the main page of the repository.
 
