@@ -1,5 +1,5 @@
 
-#How to clone and run Cypress repo<br/>
+<h1 style="color:red;">#How to clone and run Cypress repo<br/></h1>
 Cloning a repository
 On GitHub.com, navigate to the main page of the repository.
 
