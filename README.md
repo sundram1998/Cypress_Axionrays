@@ -1,5 +1,4 @@
-
-<h1 style="color:red">#How to clone and run Cypress repo<br/></h1>
+<span style="color: green"> #How to clone and run Cypress repo </span>
 Cloning a repository
 On GitHub.com, navigate to the main page of the repository.
 
@@ -12,7 +11,7 @@ Screenshot of the list of files on the landing page of a repository. The "Code" 
 
 Copy the URL for the repository.
 
-To clone the repository using HTTPS, under "HTTPS", click.
+<h1>To clone the repository using HTTPS, under "HTTPS", click.</h1>
 
 To clone the repository using an SSH key, including a certificate issued by your organization's SSH certificate authority, click SSH, then click.
 
