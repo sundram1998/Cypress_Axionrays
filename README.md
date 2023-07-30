@@ -1,4 +1,4 @@
-<a href="![image](https://github.com/sundram1998/Cypress_Axionrays/assets/67402167/585b346a-5cb6-4c40-830a-316413e27e0a)
+<a href="https://i.ytimg.com/vi/OFhO1s9WAk4/maxresdefault.jpg"
 " target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="How To Clone Repo" height="41" width="174"></a><br/>
 #How to clone and run Cypress repo<br/>
 Cloning a repository
