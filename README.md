@@ -1,3 +1,4 @@
+<a href="https://www.buymeacoffee.com/absatyaprakash" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 #How to clone and run Cypress repo<br/>
 Cloning a repository
 On GitHub.com, navigate to the main page of the repository.
